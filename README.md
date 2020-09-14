@@ -7,6 +7,7 @@ The importance of caches for performance, and their high silicon area cost, have
  For the cache-sensitive subset of these benchmarks run in isolation, 2DCC also achieves a 11.7% speedup (geomean).
 
 Paper link here: [2DCC: Cache Compression in Two Dimensions](https://ieeexplore.ieee.org/document/9116279)
+Poster link here: [Cache Compression in Two Dimensions](http://ece.ubc.ca/~aming/assets/img/papers/iccd_poster.pdf)
 
 # Cache Compression zsim
 This is a variation of the original [zsim simulator](https://github.com/s5z/zsim) that supports compressed caches.
