@@ -9,7 +9,7 @@ The importance of caches for performance, and their high silicon area cost, have
 Paper link here: [2DCC: Cache Compression in Two Dimensions](https://ieeexplore.ieee.org/document/9116279)
 
 # Cache Compression zsim
-This is a variation of the original [zsim simulator](https://github.com/s5z/zsim) that supports compressed caches. I built this in collaboration with [Amin Ghasemazar](https://github.com/Amin-Azar) at UBC, under the supervision of Prof. [Mieszko Lis](http://mieszko.ece.ubc.ca/). This work was part of my [MSc thesis](https://open.library.ubc.ca/cIRcle/collections/ubctheses/24/items/1.0368685) and an updated version of this simulator has been used in the two following papers:
+This is a variation of the original [zsim simulator](https://github.com/s5z/zsim) that supports compressed caches.
 
 ## Caches
 This simulator includes different types of compressed caches:
